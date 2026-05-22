@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [21.16.0](https://dev.azure.com/totvstfs/THF/_git/thf-components/compare/v21.15.0...v21.16.0) (2026-05-18)
+
+
+### Features
+
+* **grid:** implementa loading na duplicação de linhas ([2022ff3](https://dev.azure.com/totvstfs/THF/_git/thf-components/commit/2022ff3cfd1a43abbc750e119c45d02be660102d))
+
 ## [21.15.0](https://dev.azure.com/totvstfs/THF/_git/thf-components/compare/v21.14.0...v21.15.0) (2026-05-14)
 
 
